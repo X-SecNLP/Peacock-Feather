@@ -1,8 +1,5 @@
 # Oobleck, Gödel, Hairy Ball
 
-> **A Semantic Evolutionary Engine**:
-> *Exploring the non-Newtonian fluid of language, the incompleteness of lexicons, and the inevitable singularities of vector fields.*
-
 ## The Philosophy
 
 * **Oobleck:** Language is non-Newtonian. It resists when you strike it with rigid definitions but flows when you let it wander. This engine treats the latent space as a fluid to be navigated.
