@@ -73,7 +73,7 @@ class SemanticNicheExplorer:
             })
         return history
 
-    def generate_artifact(self, history, output_gif='semantic_evolution.gif'):
+    def generate_artifact(self, history, output_gif='result.gif'):
         if not history: return
         fig = plt.figure(figsize=(10, 10), facecolor='#050505')
         ax = plt.subplot(111, projection='polar')
