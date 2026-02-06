@@ -1,10 +1,4 @@
-# Oobleck, Gödel, Hairy Ball
-
-## Sprachspiel
-
-* **Oobleck:** Language is non-Newtonian. It resists when you strike it with rigid definitions but flows when you let it wander. This engine treats the latent space as a fluid to be navigated.
-* **Gödel:** Based on the Incompleteness Theorems, no vocabulary is truly "complete." We search for the best fit within the specific "axioms" of your provided text source.
-* **Hairy Ball:** In a continuous vector field, there is always a point where the "hair" stands up—a singularity. This script evolves words to find those semantic peaks where meaning converges.
+# Peacock Feather
 
 ## The Mechanics
 
